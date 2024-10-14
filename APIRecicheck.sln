@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIRecicheck", "APIRecicheck.csproj", "{850346EE-A9DA-41F0-9873-08E65742BABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRecicheck.Test", "..\APIRecicheck.Test\APIRecicheck.Test.csproj", "{1935C167-0C9B-4912-9527-384A03427C7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRecicheck.Test", "\APIRecicheck.Test\APIRecicheck.Test.csproj", "{1935C167-0C9B-4912-9527-384A03427C7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
