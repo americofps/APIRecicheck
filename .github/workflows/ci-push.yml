@@ -18,3 +18,5 @@ jobs:
 
       - name: Unit tests
         run: dotnet test APIRecicheck
+
+    #só pra testar
